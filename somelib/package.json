@@ -1,0 +1,6 @@
+{
+  "name": "somelib",
+  "type": "module",
+  "types": "index.d.ts",
+  "exports": "./index.mjs"
+}

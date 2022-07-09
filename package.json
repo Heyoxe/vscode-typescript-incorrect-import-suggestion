@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node dist/incorrect.js",
+    "build": "npx tsc"
+  },
+  "dependencies": {
+    "somelib": "file:somelib",
+    "typescript": "4.7.4"
+  }
+}
